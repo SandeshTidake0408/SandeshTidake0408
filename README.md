@@ -2,3 +2,5 @@
 - 👀 I’m interested in ... Programing
 - 🌱 I’m currently learning ...Web Devlopment and DSA
 - 📫 How to reach me ... sandeshtidake37@gmail.com
+- Talking about #python #webdev #cybersecurity #design #astronomy
+- 
