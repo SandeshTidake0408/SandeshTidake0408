@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SandeshTidake0408
-- 👀 I’m interested in ... Programing
+- 👀 I’m interested in ... Design and Development 
 - 🌱 I’m currently learning ...Web Devlopment and DSA
 - 📫 How to reach me ... sandeshtidake37@gmail.com
 - Talking about #python #webdev #cybersecurity #design #astronomy
+- #uiux
 - 
