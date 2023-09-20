@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web Designer/developer from India.</h3>
 <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFoMnkzcmpkbmdsNDg2b2sybWtqbTFuMXg5ZzdoNm04dG03emJuZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9LQHvkbIzTSLe/giphy.gif" alt="Coding" width="300">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/SandeshTidake0408" alt="sandeshtidake0408" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" alt="sandeshtidake0408" width="100" /></a> </p>
 
 - 🌱 I’m currently learning **NextJs ,Typescript**
 
