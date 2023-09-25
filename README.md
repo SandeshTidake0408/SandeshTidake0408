@@ -1,5 +1,5 @@
-<h1 color="#fff" align="center" >Hi 👋, I'm Sandesh Tidake</h1>
-<h3 align="center" color="#fff" >A passionate web designer and developer hailing from India 🇮🇳.💼 I specialize in creating visually captivating and user-friendly websites.🌐 Let's collaborate and bring your web projects to life! Feel free to reach out, and let's build something remarkable together. 👨‍💻✨</h3>
+<h1 color="white" align="center" >Hi 👋, I'm Sandesh Tidake</h1>
+<h3 align="center" color="white" >A passionate web designer and developer hailing from India 🇮🇳.💼 I specialize in creating visually captivating and user-friendly websites.🌐 Let's collaborate and bring your web projects to life! Feel free to reach out, and let's build something remarkable together. 👨‍💻✨</h3>
 <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFoMnkzcmpkbmdsNDg2b2sybWtqbTFuMXg5ZzdoNm04dG03emJuZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9LQHvkbIzTSLe/giphy.gif" alt="Coding" width="300">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" alt="sandeshtidake0408" width="150" /></a> </p>
